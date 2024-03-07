@@ -1,0 +1,55 @@
+* {
+    font-family: Tahoma;
+}
+#banner {
+    clear: both;
+    background-color: Tomato;
+    color: white;
+    padding: 10px;
+}
+#main {
+    background-color: Seashell;
+    height: 500px;
+    overflow: scroll;
+    clear: both;
+}
+.footer {
+    background-color: Tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+    float: left;
+}
+.opinion {
+    background-color: color;
+    color: DimGray;
+    width: 60%;
+    height: 220px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    box-shadow: 10px 5px DimGray;
+}
+img {
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+}
+cite {
+    padding: 10px;
+    font-size: 150%;
+    font-style: italic;
+}
+h1, h2 {
+    text-align: center;
+}
+h4 {
+    text-align: right;
+    margin-right: 40px;
+    font-size: 150%;
+    font-style: italic;
+}
+a {
+    color: white;
+}
