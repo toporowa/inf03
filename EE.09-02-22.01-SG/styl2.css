@@ -1,0 +1,46 @@
+body {
+    font-family: Helvetica;
+}
+#banner-left, #banner-right {
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+    float: left;
+}
+#banner-middle {
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+    float: left;
+}
+#main {
+    background-color: rgb(224, 255, 255);
+    padding: 40px;
+    clear: both;
+}
+#panel-left, #panel-right {
+    background-color: rgb(70, 130, 180);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+#footer {
+    background-color: rgb(224, 255, 255);
+}
+table {
+    border: 1px solid blue;
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid blue;
+}
+th {
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
